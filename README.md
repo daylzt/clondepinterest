@@ -9,9 +9,9 @@ Este proyectp en un clon de la interfaz de usuario de Pinterest, creado purament
 + **Iconografía y estilos modernos:** uso de la biblioteca de íconos de Material Design y estilos CSS modernos para una apariencia cool.
 
 ### Tecnologías utilizadas
-+**HTML5:** Para la estructura básica del sitio.
-+**CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
-+**Google fonts:** Para fuentes personalizadas.
++ **HTML5:** Para la estructura básica del sitio.
++ **CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
++ **Google fonts:** Para fuentes personalizadas.
 
 ### Vista previa del proyecto
 (Pendiente)
